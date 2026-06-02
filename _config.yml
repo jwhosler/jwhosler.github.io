@@ -1,0 +1,12 @@
+title: James Hosler
+description: Educational Leadership • Mathematics Education
+
+url: "https://jameshosler.com"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+permalink: /:title/
