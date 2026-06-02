@@ -46,5 +46,16 @@ Practical school improvement, grounded in experience and research, powered by da
 
 </ul>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("a[href^='http']").forEach(link => {
+    if (!link.href.includes(window.location.hostname)) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+});
+</script>
+    
 </body>
 </html>
