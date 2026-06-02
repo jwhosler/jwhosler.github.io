@@ -11,7 +11,7 @@ title: "Blog: The Dusty Shelf"
   <small>{{ latest.date | date: "%B %d, %Y" }}</small>
 
   <div style="margin-top: 1em;">
-    {{ latest.content | truncatewords: 60 }}
+    {{ latest.content | strip_html | truncatewords: 60 }}
   </div>
 </div>
 
