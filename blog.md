@@ -1,13 +1,18 @@
 ---
-title: The Dusty Shelf
+title: "Blog: The Dusty Shelf"
 ---
 
 {% assign latest = site.posts.first %}
 
 <h2>Latest Post</h2>
-<div style="margin-bottom: 2em;">
-  <a href="{{ latest.url }}"><strong>{{ latest.title }}</strong></a><br>
+
+<div style="margin-bottom: 3em;">
+  <h3><a href="{{ latest.url }}">{{ latest.title }}</a></h3>
   <small>{{ latest.date | date: "%B %d, %Y" }}</small>
+
+  <div style="margin-top: 1em;">
+    {{ latest.content }}
+  </div>
 </div>
 
 <hr>
