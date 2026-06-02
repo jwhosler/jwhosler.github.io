@@ -1,6 +1,5 @@
 ---
 title: "Blog: The Dusty Shelf"
-hide_title: true
 ---
 
 {% assign latest = site.posts.first %}
