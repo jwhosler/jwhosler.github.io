@@ -37,7 +37,7 @@ Importantly, an obstacle in one context might be an opportunity in another. For 
 
 Focused solely on “restructuring schools,” the authors conclude with a solution aimed at one small part of the problem: “Changing school structures can enhance professional community” (p. 785). Specifically, the authors recommend giving scheduled time for collaboration and giving authority to teachers to make some decisions about school policies.
 
-However, it is hard to ignore that these are just intermediary, preparatory steps. They might be ingredients, but what’s the recipe? Plan time might be necessary, but what is supposed to happen during the plan time? What policies should teachers be empowered to direct, and how? A danger in an article like this is that an administrator might read it and then begin a “research-based,” district-wide initiative to schedule collaboration time for every teacher.
+However, it is hard to ignore that these are just intermediary, preparatory steps. They might be ingredients, but what’s the recipe? Plan time might be necessary, but what is supposed to happen during the plan time? What policies should teachers be empowered to direct, and how? A danger in an article like this is that an administrator might read it and then begin a “research-based,” district-wide initiative to schedule collaboration time for every teacher, all without any sensitivity to what life is like in a particular school or, even worse, any direction about how the time is supposed to be spent!
 
 I'm left with a question: Can the goal be the plan? If the goal is “collaborate,” surely the plan cannot simply be “go collaborate.”
 
