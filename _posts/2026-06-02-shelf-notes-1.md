@@ -41,4 +41,4 @@ However, it is hard to ignore that these are just intermediary, preparatory step
 
 I'm left with a question: Can the goal be the plan? If the goal is “collaborate,” surely the plan cannot simply be “go collaborate.”
 
-Louis, K. S., Marks, H. M., Kruse, S. (1996). Teachers’ professional community in restructuring schools. American Educational Research Journal, 33(4), 757–798. <a href="https://journals.sagepub.com/doi/10.3102/00028312033004757">https://journals.sagepub.com/doi/10.3102/00028312033004757</a>
+Louis, K. S., Marks, H. M., Kruse, S. (1996). Teachers’ professional community in restructuring schools. American Educational Research Journal, 33(4), 757–798. <a href="https://journals.sagepub.com/doi/10.3102/00028312033004757" target="_blank">Link</a>
